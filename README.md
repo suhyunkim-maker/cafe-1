@@ -7,7 +7,7 @@
 
 ## 🚀 Cafe-1 AI 실시간 서비스 배포 및 바로가기 주소
 *   **💻 Cafe-1 스마트 오더 모바일 배포 서비스 (Vercel Live)**: 
-    👉 **[https://sh-cafe-1-service.vercel.app/index.html](https://sh-cafe-1-service.vercel.app/index.html)**
+    👉 
 *   **🤖 Cafe-1 AI 주문 에이전트 다이렉트 프리뷰 (AI Studio Live)**:
    
 
