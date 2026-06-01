@@ -5,9 +5,11 @@
 
 ---
 
-## 🚀 Cafe-1 AI Studio 실시간 서비스 바로가기
-*   **🤖 Cafe-1 AI 주문 에이전트 구동 주소**:
-    👉 **[https://ai.studio/apps/941af65d-bcb4-46f2-a366-1ecba3d25474](https://ai.studio/apps/941af65d-bcb4-46f2-a366-1ecba3d25474)**
+## 🚀 Cafe-1 AI 실시간 서비스 배포 및 바로가기 주소
+*   **💻 Cafe-1 스마트 오더 모바일 배포 서비스 (Vercel Live)**: 
+    👉 **[https://sh-cafe-1-service.vercel.app/index.html](https://sh-cafe-1-service.vercel.app/index.html)**
+*   **🤖 Cafe-1 AI 주문 에이전트 다이렉트 프리뷰 (AI Studio Live)**:
+    👉 **[https://aistudio.google.com/apps/941af65d-bcb4-46f2-a366-1ecba3d25474?showPreview=true&showAssistant=true](https://aistudio.google.com/apps/941af65d-bcb4-46f2-a366-1ecba3d25474?showPreview=true&showAssistant=true)**
 
 ---
 
