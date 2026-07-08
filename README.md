@@ -1,15 +1,14 @@
-# ☕ Cafe-1 스마트 주문 및 AI 발주 연동 시스템 (cafe-1)
+업로드 예정입니다
 
-본 프로젝트는 김수현 PM이 기획 및 구축한 **Cafe-1호점 전용 스마트 오더 및 AI 발주 제어 시스템**입니다. 
+1# ☕ Cafe-1 스마트 주문 및 AI 발주 연동 시스템 (cafe-1)
+
+본 프로젝트는 PM이 기획 및 구축한 
+**Cafe-1호점 전용 스마트 오더 및 AI 발주 제어 시스템**입니다. 
 구글 AI Studio를 통해 지능적으로 연계된 AI 에이전트를 내장하여, 카페 현장의 주문 접수, F&B 재고 추적 및 스마트 발주 인터페이스를 완벽하게 서포트합니다.
 
----
-
-## 🚀 Cafe-1 AI 실시간 서비스 배포 및 바로가기 주소
-*   **💻 Cafe-1 스마트 오더 모바일 배포 서비스 (Vercel Live)**: 
-    👉 **[https://sh-cafe-1-service.vercel.app/index.html](https://sh-cafe-1-service.vercel.app/index.html)**
-*   **🤖 Cafe-1 AI 주문 에이전트 다이렉트 프리뷰 (AI Studio Live)**:
-    👉 **[https://aistudio.google.com/apps/941af65d-bcb4-46f2-a366-1ecba3d25474?showPreview=true&showAssistant=true](https://aistudio.google.com/apps/941af65d-bcb4-46f2-a366-1ecba3d25474?showPreview=true&showAssistant=true)**
+📧 이메일 협업 문의하기(카페)
+앱 서비스 배포
+(https://sh-cafe-1-service.vercel.app/index.html)
 
 ---
 
